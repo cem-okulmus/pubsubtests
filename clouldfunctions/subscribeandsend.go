@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/googleapis/google-cloud-go/pubsub"
+	"cloud.google.com/go/pubsub"
 )
 
 // PubSubMessage is the payload of a Pub/Sub event.
